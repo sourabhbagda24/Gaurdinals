@@ -1,0 +1,21 @@
+Transaction_ID,Date,Time,Customer_Name,Phone_Number,Account_Number,Account_Type,Transaction_Type,Amount,Currency,Merchant_Name,Merchant_Category,Location,Bank_Name,IFSC_Code,UPI_ID,Status,Reference_Number,Balance_After
+TXN001,2024-01-05,09:23:41,Rahul Sharma,9876543210,SBI00123456789,Savings,Debit,1500.00,INR,Amazon India,E-Commerce,Mumbai,State Bank of India,SBIN0001234,rahul.sharma@oksbi,Success,REF20240105001,48500.00
+TXN002,2024-01-05,11:45:12,Priya Mehta,9812345678,HDFC00987654321,Current,Credit,25000.00,INR,Salary Transfer,Salary,Delhi,HDFC Bank,HDFC0002345,priya.mehta@hdfcbank,Success,REF20240105002,125000.00
+TXN003,2024-01-06,14:10:05,Amit Patel,8901234567,ICICI00456789012,Savings,Debit,3200.00,INR,Zomato,Food & Dining,Ahmedabad,ICICI Bank,ICIC0003456,amit.patel@icici,Success,REF20240106003,21800.00
+TXN004,2024-01-06,16:32:50,Sneha Gupta,7890123456,AXIS00234567890,Savings,Debit,850.00,INR,BigBasket,Grocery,Pune,Axis Bank,UTIB0004567,sneha.gupta@axisbank,Failed,REF20240106004,15200.00
+TXN005,2024-01-07,08:55:33,Vikram Singh,9345678901,PNB00789012345,Savings,Debit,500.00,INR,Metro Recharge,Transport,Jaipur,Punjab National Bank,PUNB0005678,vikram.singh@upi,Success,REF20240107005,9500.00
+TXN006,2024-01-07,13:20:18,Anita Rao,8234567890,KOTAK00345678901,Savings,Credit,10000.00,INR,Freelance Payment,Miscellaneous,Hyderabad,Kotak Mahindra Bank,KKBK0006789,anita.rao@kotak,Success,REF20240107006,45000.00
+TXN007,2024-01-08,10:05:44,Rohit Kumar,7123456789,BOB00678901234,Savings,Debit,2100.00,INR,Flipkart,E-Commerce,Kolkata,Bank of Baroda,BARB0007890,rohit.kumar@barodampay,Success,REF20240108007,17900.00
+TXN008,2024-01-08,15:48:29,Deepika Joshi,9567890123,YES00901234567,Current,Debit,75000.00,INR,Office Rent,Rent,Chennai,Yes Bank,YESB0008901,deepika.joshi@yesbank,Success,REF20240108008,225000.00
+TXN009,2024-01-09,09:30:00,Manish Verma,8456789012,CANARA00112233445,Savings,Debit,1200.00,INR,Reliance Petrol,Fuel,Nagpur,Canara Bank,CNRB0009012,manish.verma@cnrb,Pending,REF20240109009,33800.00
+TXN010,2024-01-09,12:15:55,Kavita Sharma,9234567801,UNION00556677889,Savings,Debit,650.00,INR,Netflix,Entertainment,Surat,Union Bank of India,UBIN0010123,kavita.sharma@unionbank,Success,REF20240109010,12350.00
+TXN011,2024-01-10,11:22:36,Suresh Nair,7890234561,FEDERAL00223344556,Savings,Credit,5000.00,INR,Insurance Refund,Insurance,Kochi,Federal Bank,FDRL0011234,suresh.nair@federal,Success,REF20240110011,38000.00
+TXN012,2024-01-10,17:40:09,Pooja Agarwal,9678901234,INDUS00667788990,Savings,Debit,4500.00,INR,MakeMyTrip,Travel,Lucknow,IndusInd Bank,INDB0012345,pooja.agarwal@indusind,Success,REF20240110012,55500.00
+TXN013,2024-01-11,08:10:27,Arjun Mishra,8567012345,SBI00321654987,Savings,Debit,300.00,INR,Paytm Wallet,Digital Wallet,Bhopal,State Bank of India,SBIN0013456,arjun.mishra@oksbi,Success,REF20240111013,7700.00
+TXN014,2024-01-11,14:55:03,Nisha Tiwari,9012345678,HDFC00147258369,Savings,Debit,9999.00,INR,Apple App Store,Technology,Bengaluru,HDFC Bank,HDFC0014567,nisha.tiwari@hdfcbank,Failed,REF20240111014,42001.00
+TXN015,2024-01-12,10:30:21,Sanjay Patel,7654321098,ICICI00963852741,Current,Credit,100000.00,INR,Business Payment,Business,Vadodara,ICICI Bank,ICIC0015678,sanjay.patel@icici,Success,REF20240112015,750000.00
+TXN016,2024-01-12,16:12:45,Rekha Desai,8901234567,AXIS00741852963,Savings,Debit,2750.00,INR,Apollo Pharmacy,Healthcare,Rajkot,Axis Bank,UTIB0016789,rekha.desai@axisbank,Success,REF20240112016,27250.00
+TXN017,2024-01-13,09:45:18,Gaurav Sharma,9345678012,PNB00852963741,Savings,Debit,1800.00,INR,Swiggy,Food & Dining,Chandigarh,Punjab National Bank,PUNB0017890,gaurav.sharma@upi,Success,REF20240113017,18200.00
+TXN018,2024-01-13,13:05:50,Sunita Yadav,8234501234,KOTAK00369258147,Savings,Debit,500.00,INR,BSNL Recharge,Telecom,Patna,Kotak Mahindra Bank,KKBK0018901,sunita.yadav@kotak,Success,REF20240113018,4500.00
+TXN019,2024-01-14,11:50:33,Rajesh Gupta,7123450987,BOB00258147369,Savings,Credit,15000.00,INR,Mutual Fund Dividend,Investment,Indore,Bank of Baroda,BARB0019012,rajesh.gupta@barodampay,Success,REF20240114019,115000.00
+TXN020,2024-01-14,15:25:08,Meena Pillai,9567801234,YES00741963852,Savings,Debit,6800.00,INR,Myntra,Shopping,Thiruvananthapuram,Yes Bank,YESB0020123,meena.pillai@yesbank,Success,REF20240114020,43200.00
